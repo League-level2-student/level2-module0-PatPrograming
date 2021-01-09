@@ -11,7 +11,6 @@ void setup() {
   
   //4. initialize the ints in the array with random numbers
   //   from 0 to the built in height variable
-
   //5. call the noStroke() method
 
 }
